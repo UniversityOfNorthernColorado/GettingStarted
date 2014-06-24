@@ -15,7 +15,13 @@ Click [here for a tutorial](https://help.github.com/articles/set-up-git) on how 
 
 
 #####Add A New Project Repository To UNC's Github Organization#####
+Use the following naming convention to name your repository: 
 
+######[Project Family]\_[Year]\_[Project Name]######
+
+(Project family examples include Robotics, DemoSAT, RocketSAT, Physics, Optics, etc...)
+
+Be sure not to double up projects! If you are modifying a repo as a legacy project, be sure a timestamp is noted in the README.md and that old items are moved into a timestamped directory/folder.
 
 #####Editing The README.md File (change the project's front page)#####
 Use the [Daring Fireball Markdown Syntax](http://daringfireball.net/projects/markdown/syntax) to add formatted content through Github's website code editor (click README.md from the master branch of the UNC organization, then click the [Edit] button).
