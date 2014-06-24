@@ -16,4 +16,4 @@ Click [here for a tutorial](https://help.github.com/articles/set-up-git) on how 
 
 
 #####Editing The README.md File (change the project's front page)#####
-Use the [Daring Fireball Markdown Syntax](http://daringfireball.net/projects/markdown/syntax) to add formatted content through Github's website code editor. (click README.md from the top drectory of the organization, then click the [Edit] button)
+Use the [Daring Fireball Markdown Syntax](http://daringfireball.net/projects/markdown/syntax) to add formatted content through Github's website code editor (click README.md from the master branch of the UNC organization, then click the [Edit] button).
