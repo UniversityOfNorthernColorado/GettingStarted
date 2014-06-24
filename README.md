@@ -4,6 +4,8 @@
 
 From the [University Of Northern Colorado](http://www.unco.edu/) Department Of [Physics and Astronomy](http://www.unco.edu/nhs/physics/)
 
+![UNC Physics Banner](http://www.unco.edu/nhs/physics/assets/images/UNC_physics_bear_sand.gif)
+
 --------------------
 
 #####Install Github#####
